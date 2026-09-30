@@ -1,0 +1,27 @@
+# Logs
+*.log
+*.log.old
+.termux-cleaner/
+
+# Temp
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Termux
+.termux/
+storage/
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Screenshots (si pesan mucho)
+# assets/*.mp4
